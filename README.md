@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohit Bhure</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbhure&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbhure" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitbhure" alt="rohitbhure" /></a> </p>
+
 - 🔭 I’m currently working on [Vote4Change](https://github.com/rohitbhure/Vote-for-Change)
 
 - 🌱 I’m currently learning **NodeJs and Redux**
@@ -13,10 +17,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ah81kuwYyEbN0UkXEUgNvhg8vQJajrhb/view?usp=sharing](https://drive.google.com/file/d/1ah81kuwYyEbN0UkXEUgNvhg8vQJajrhb/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am intellegent**
+- ⚡ Fun fact **I think I am Intellegent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/iamrohitbhure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamrohitbhure" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohit-bhure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-bhure" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rohitbhure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitbhure" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitbhure&show_icons=true&locale=en&layout=compact" alt="rohitbhure" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitbhure&show_icons=true&locale=en" alt="rohitbhure" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbhure&" alt="rohitbhure" /></p>
